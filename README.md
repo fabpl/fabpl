@@ -1,7 +1,5 @@
 🔭 Technical Director @ [Rhinos Solutions](https://rhinos.fr)
 
-🚀 If there was only one stack: TALL - Tailwind, Alpine, Laravel, Livewire
+🚀 Use Laravel, React, Vue, Livewire, Alpine, Tailwind
 
-⚡ But there are so many others interesting stuffs : Symfony, VueJS, Bootstrap, Webpack, React Native, ...
-
-📫 How to reach me: [Twitter](https://twitter.com/fplanchette) or [Linked In](https://www.linkedin.com/in/fabriceplanchette)
+📫 How to reach me: [Twitter](https://x.com/fplanchette) or [Linked In](https://www.linkedin.com/in/fabriceplanchette)
